@@ -8,7 +8,7 @@ body{
     margin: auto;
 }
 
-header{
+.navbar{
     display: flex;
     align-items: center;
     padding-top: 30px;
